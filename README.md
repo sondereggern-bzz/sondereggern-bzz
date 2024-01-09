@@ -20,6 +20,8 @@ Ich besitze Auserdem/werde Besitzen:
 
 Mich interresiert alles Technische, Wirtschaftliche, Geschichtliche und Politische.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 HI!
 Im currently getting my Degree in IT with an economic BMS at the KSH and BZZ.
 Here you can learn more about me and my competences;
