@@ -22,7 +22,8 @@ Ich besitze Auserdem/werde Besitzen:
 - Probiere das C1 in English zu bekommen
 
 Mich interresiert alles Technische, Wirtschaftliche, Geschichtliche und Politische.
-für Fragen: sondereggern-bzz.ch
+für Fragen: 
+sondereggern-bzz.ch
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -47,7 +48,8 @@ I also have/am Learning:
 - Aiming for the C1 in English
 
 Im very Interested in all things Technical, Economics, History and Politics
-for questions: sondereggern-bzz.ch
+for further Questions: 
+sondereggern-bzz.ch
 
 <!--
 **sondereggern-bzz/sondereggern-bzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
