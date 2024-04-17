@@ -1,5 +1,5 @@
 ### Hi there 👋
-(Section in English on the lower half of the Page)
+<!-- (Section in English on the lower half of the Page)
 
 
 Ich bin ein Angehender Informatiker/EFZ an der IMS Hottingen und (KSH) und dem BZZ, mit einer BMS in ausrichtung Wirtschaft.
@@ -50,7 +50,7 @@ I also have/am Learning:
 Im very Interested in all things Technical, Economics, History and Politics
 for further Questions: 
 sondereggern-bzz.ch
-
+-->
 <!--
 **sondereggern-bzz/sondereggern-bzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
