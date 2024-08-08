@@ -65,5 +65,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondereggern-bzz)](https://github.com/anuraghazra/github-readme-stats) ![](https://komarev.com/ghpvc/?username=sondereggern-bzz)
+![](https://komarev.com/ghpvc/?username=sondereggern-bzz)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondereggern-bzz)](https://github.com/anuraghazra/github-readme-stats) 
